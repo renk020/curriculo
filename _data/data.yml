@@ -4,54 +4,42 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: renkley020@gmail.com
+  github: renk020
+  linkedin: 
+  phone: +55 84 99430-4558
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Português
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Adminidtração Financeira.
+    time: 2023-2023.
+    university: Instituto Federal do Rio Grande do Sul.
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Informática.
+    time: 2023 - 2025
+    university: Instituto Federal do Rio Grande do Norte.
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Phyton
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Web Developer
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Procuro adquirir experiêecia no mercado de trabalho, sou alguém que cumpre com meus afazeres e horários. Procuro me inserir no mercado trabalhista para conseguir experiência.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Varejo
+    time: 2015-2016
+    company: Metal Fagner
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
